@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/training-sc/static/css/main.31d6cfe0.css",
-    "main.js": "/training-sc/static/js/main.d6878625.js",
+    "main.js": "/training-sc/static/js/main.4f41c8fc.js",
     "static/js/453.cbce5ee3.chunk.js": "/training-sc/static/js/453.cbce5ee3.chunk.js",
     "static/media/Rectangle-1.jpg": "/training-sc/static/media/Rectangle-1.c541d79d8efa31ea0c1f.jpg",
     "index.html": "/training-sc/index.html",
-    "main.d6878625.js.map": "/training-sc/static/js/main.d6878625.js.map",
+    "main.4f41c8fc.js.map": "/training-sc/static/js/main.4f41c8fc.js.map",
     "453.cbce5ee3.chunk.js.map": "/training-sc/static/js/453.cbce5ee3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.d6878625.js"
+    "static/js/main.4f41c8fc.js"
   ]
 }
